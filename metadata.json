@@ -1,0 +1,8 @@
+{
+  "name": "Elora Study Abroad",
+  "description": "Premium bilingual international student consultancy platform for Elora Study Abroad. Dream, Explore, Achieve with comprehensive guidance for 18 top global study destinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
